@@ -1,0 +1,11 @@
+C:\Users\Mika\Downloads\RPG_Game\RPG_Game\RPG_GameLogic\bin\Debug\net8.0\RPG_GameLogic.deps.json
+C:\Users\Mika\Downloads\RPG_Game\RPG_Game\RPG_GameLogic\bin\Debug\net8.0\RPG_GameLogic.dll
+C:\Users\Mika\Downloads\RPG_Game\RPG_Game\RPG_GameLogic\bin\Debug\net8.0\RPG_GameLogic.pdb
+C:\Users\Mika\Downloads\RPG_Game\RPG_Game\RPG_GameLogic\obj\Debug\net8.0\RPG_GameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mika\Downloads\RPG_Game\RPG_Game\RPG_GameLogic\obj\Debug\net8.0\RPG_GameLogic.AssemblyInfoInputs.cache
+C:\Users\Mika\Downloads\RPG_Game\RPG_Game\RPG_GameLogic\obj\Debug\net8.0\RPG_GameLogic.AssemblyInfo.cs
+C:\Users\Mika\Downloads\RPG_Game\RPG_Game\RPG_GameLogic\obj\Debug\net8.0\RPG_GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Mika\Downloads\RPG_Game\RPG_Game\RPG_GameLogic\obj\Debug\net8.0\RPG_GameLogic.dll
+C:\Users\Mika\Downloads\RPG_Game\RPG_Game\RPG_GameLogic\obj\Debug\net8.0\refint\RPG_GameLogic.dll
+C:\Users\Mika\Downloads\RPG_Game\RPG_Game\RPG_GameLogic\obj\Debug\net8.0\RPG_GameLogic.pdb
+C:\Users\Mika\Downloads\RPG_Game\RPG_Game\RPG_GameLogic\obj\Debug\net8.0\ref\RPG_GameLogic.dll
